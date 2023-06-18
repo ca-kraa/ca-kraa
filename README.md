@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm cakra</h1>
-<h3 align="center">A Student SMKN 4 Payakumbuh school With Name : N/M</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
