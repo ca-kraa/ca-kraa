@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm cakra</h1>
 
-- 🌱 I’m currently learning **Framework Web | Laravel ,Framework CSS | TailwindCSS & Data**
+- 🌱 I’m currently learning **Framework Web | Laravel ,Framework CSS | TailwindCSS & Database**
 - 📫 How to reach **[me](mailto:nabilmufti14@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
