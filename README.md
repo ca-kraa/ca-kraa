@@ -20,3 +20,5 @@
 ## Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cxkr4a/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabil-mufti-811562201/)
+<br>
+[![Discord Presence](https://lanyard.cnrad.dev/api/948092281557237842)](https://discord.com/users/948092281557237842)
