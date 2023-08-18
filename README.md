@@ -1,6 +1,4 @@
-<a href="https://github.com/ca-kraa"> 
-<img src"https://64.media.tumblr.com/0e0db46f0d903cdca62bdc043f94bd6f/c882db4b183dbe95-27/s540x810/e08484875717aaf0ca24bf2b3b07a348003b331a.gifv">
-</a>
+![GIF](https://i.ibb.co/61fW7ft/ezgif-com-gif-maker-1.gif)
 
 <h1 align="center">Hi 👋, I'm cakra <br>
   
@@ -33,3 +31,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=ca-kraa&theme=radical&hide_border=true)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ca-kraa&layout=compact&theme=radical&hide_border=true)
 
+<a href="https://ibb.co/vQKj6Kd"><img src="https://i.ibb.co/61fW7ft/ezgif-com-gif-maker-1.gif" alt="ezgif-com-gif-maker-1" border="0"></a>
