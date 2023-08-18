@@ -1,3 +1,7 @@
+<a href="https://github.com/ca-kraa"> 
+<img src"https://64.media.tumblr.com/0e0db46f0d903cdca62bdc043f94bd6f/c882db4b183dbe95-27/s540x810/e08484875717aaf0ca24bf2b3b07a348003b331a.gifv">
+</a>
+
 <h1 align="center">Hi 👋, I'm cakra <br>
   
   <a href="https://discord.com/users/948092281557237842">
@@ -9,9 +13,6 @@
   <a href="https://www.linkedin.com/in/nabil-mufti-811562201/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a></h1>
-<p align="center">
-
-</p>
 
 - 🌱 I’m currently learning **Framework Web & Framework CSS**
 - 📫 How to reach **[me](mailto:nabilmufti14@gmail.com)**
