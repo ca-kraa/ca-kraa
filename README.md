@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm cakra</h1>
+<h1 align="center">Hi 👋, I'm cakra
 <p align="center">
   <img src="https://github.com/ca-kraa/ca-kraa/raw/main/Lee%20Je-no.gif" alt="Lee Je-No" style="border-radius: 20px;">
 </p>
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
+</h1>
 
 ## About
 - 🌱 I’m currently learning **Framework Web & Framework CSS**
