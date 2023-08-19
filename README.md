@@ -31,6 +31,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=ca-kraa&theme=radical&hide_border=true)](https://git.io/streak-stats)  <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ca-kraa&layout=compact&theme=radical&hide_border=true)
 [![](https://visitcount.itsvg.in/api?id=ca-kraa&label=Profile%20Views&icon=9&pretty=false)](https://visitcount.itsvg.in)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ca-kraa&label=Profile%20Views&icon=9&pretty=false" />
-</a>
