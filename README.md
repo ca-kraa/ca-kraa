@@ -1,4 +1,6 @@
-[![ezgif-com-gif-maker-1.gif](https://i.postimg.cc/JnhKZP40/ezgif-com-gif-maker-1.gif)](https://postimg.cc/R3jcz1tx)
+<p align="center">
+  <img src="https://github.com/ca-kraa/ca-kraa/raw/main/ezgif.com-gif-maker%20(1).gif" alt="Lee Je-No">
+</p>
 
 <h1 align="center">Hi 👋, I'm cakra <br>
   
