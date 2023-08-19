@@ -1,4 +1,4 @@
-![GIF](https://i.ibb.co/61fW7ft/ezgif-com-gif-maker-1.gif)
+[![ezgif-com-gif-maker-1.gif](https://i.postimg.cc/JnhKZP40/ezgif-com-gif-maker-1.gif)](https://postimg.cc/R3jcz1tx)
 
 <h1 align="center">Hi 👋, I'm cakra <br>
   
@@ -30,3 +30,7 @@
 ![ca-kraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ca-kraa&show_icons=true&theme=radical&hide_border=true) <br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=ca-kraa&theme=radical&hide_border=true)](https://git.io/streak-stats)  <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ca-kraa&layout=compact&theme=radical&hide_border=true)
+[![](https://visitcount.itsvg.in/api?id=ca-kraa&label=Profile%20Views&icon=9&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ca-kraa&label=Profile%20Views&icon=9&pretty=false" />
+</a>
