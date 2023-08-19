@@ -1,9 +1,13 @@
+<h1 align="center">Hi 👋, I'm cakra</h1>
 <p align="center">
-  <img src="https://github.com/ca-kraa/ca-kraa/raw/main/ezgif.com-gif-maker%20(1).gif" alt="Lee Je-No">
+  <img src="https://github.com/ca-kraa/ca-kraa/raw/main/Lee%20Je-no.gif" alt="Lee Je-No" style="border-radius: 20px;">
 </p>
-
-<h1 align="center">Hi 👋, I'm cakra <br>
-  
+<p align="center">
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=68689489&label=Profile%20Views&pretty=false" />
+</a>
+</p>
+<p align="center">
   <a href="https://discord.com/users/948092281557237842">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
@@ -12,8 +16,11 @@
   </a>
   <a href="https://www.linkedin.com/in/nabil-mufti-811562201/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a></h1>
+  </a>
+</p>
 
+
+## About
 - 🌱 I’m currently learning **Framework Web & Framework CSS**
 - 📫 How to reach **[me](mailto:nabilmufti14@gmail.com)**
 
@@ -32,4 +39,3 @@
 ![ca-kraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ca-kraa&show_icons=true&theme=radical&hide_border=true) <br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=ca-kraa&theme=radical&hide_border=true)](https://git.io/streak-stats)  <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ca-kraa&layout=compact&theme=radical&hide_border=true)
-[![](https://visitcount.itsvg.in/api?id=ca-kraa&label=Profile%20Views&icon=9&pretty=false)](https://visitcount.itsvg.in)
