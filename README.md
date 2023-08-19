@@ -36,6 +36,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ca-kraa&layout=compact&theme=radical&hide_border=true)
 ![ca-kraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ca-kraa&show_icons=true&theme=radical&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=ca-kraa&theme=radical&hide_border=true)](https://git.io/streak-stats) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ca-kraa&layout=compact&theme=radical&hide_border=true)
+
