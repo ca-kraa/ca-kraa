@@ -11,6 +11,7 @@
   <a href="https://discord.com/users/948092281557237842">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
+  [![](https://visitcount.itsvg.in/api?id=ca-kraa&label=Profile%20Views&color=9&icon=1&pretty=false)](https://visitcount.itsvg.in)
 </p>
 </h1>
 
