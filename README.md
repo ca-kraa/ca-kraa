@@ -11,7 +11,6 @@
   <a href="https://discord.com/users/948092281557237842">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  [![](https://visitcount.itsvg.in/api?id=ca-kraa&label=Profile%20Views&color=9&icon=1&pretty=false)](https://visitcount.itsvg.in)
 </p>
 </h1>
 
@@ -33,5 +32,6 @@
 ## Stats
 
 ![ca-kraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ca-kraa&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ca-kraa&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ca-kraa&layout=compact&theme=radical&hide_border=true) <br>
+[![](https://visitcount.itsvg.in/api?id=ca-kraa&label=Profile%20Views&color=9&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
