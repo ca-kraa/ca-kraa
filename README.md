@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm cakra
 <p align="center">
-  <img src="https://github.com/ca-kraa/ca-kraa/raw/main/Lee%20Je-no.gif" alt="Lee Je-No" style="border-radius: 20px;">
+  <img src="https://github.com/ca-kraa/ca-kraa/raw/main/Jeno.gif" alt="Lee Je-No" style="border-radius: 20px;">
 </p>
 <!-- <p align="center">
 <a href="https://visitcount.itsvg.in">
