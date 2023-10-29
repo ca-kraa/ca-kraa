@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm cakra
+<h1 align="center">Hi 👋, I'm cakra </h1>
 <p align="center">
   <img src="https://github.com/ca-kraa/ca-kraa/raw/main/Jeno.gif" alt="Lee Je-No" style="border-radius: 20px;">
+  
 </p>
 <!-- <p align="center">
 <a href="https://visitcount.itsvg.in">
@@ -17,7 +18,6 @@
 ## About
 - 🌱 I’m currently learning **Framework Web & Framework CSS**
 - 📫 How to reach **[me](mailto:nabilmufti14@gmail.com)**
-
 
 ## Skills
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
