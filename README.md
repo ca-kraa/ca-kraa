@@ -32,6 +32,10 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+## Activity
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/948092281557237842)](https://discord.com/users/948092281557237842)
+
 ## Stats
 
 ![ca-kraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ca-kraa&show_icons=true&theme=radical&hide_border=true)
