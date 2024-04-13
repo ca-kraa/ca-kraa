@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm cakra </h1>
+<!-- <h1 align="center">Hi 👋, I'm cakra </h1>
 <p align="center">
   <img src="https://github.com/ca-kraa/ca-kraa/raw/main/Jeno.gif" alt="Lee Je-No" style="border-radius: 20px;">
   
 </p>
-<!-- <p align="center">
+<p align="center">
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=68689489&label=Profile%20Views&pretty=false" />
 </a>
-</p> -->
+</p> 
 <p align="center">
   <a href="https://discord.com/users/948092281557237842">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
@@ -30,7 +30,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) -->
 
 ## Activity
 
