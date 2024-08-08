@@ -30,14 +30,15 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) -->
-
-## Activity
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/948092281557237842)](https://discord.com/users/948092281557237842)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 ## Stats
 
 ![ca-kraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ca-kraa&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ca-kraa&layout=compact&theme=radical&hide_border=true) <br>
-[![](https://visitcount.itsvg.in/api?id=ca-kraa&label=Profile%20Views&color=9&icon=1&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ca-kraa&label=Profile%20Views&color=9&icon=1&pretty=false)](https://visitcount.itsvg.in) -->
+
+## Activity
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/948092281557237842)](https://discord.com/users/948092281557237842)
+
